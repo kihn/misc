@@ -1,0 +1,6 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+# gem "rails"
+gem "rype", :git => "git://github.com/nfelger/rype.git"
+gem "github_api"
